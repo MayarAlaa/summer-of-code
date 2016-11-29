@@ -11,7 +11,7 @@ categories:
 - conferences
 ---
 
-![RGSoC goes GOTOber taken by us](/img/blog/2016/20161128-GOTOber_1-iloveimg-compressed.gif)<font color="grey"><small><i>Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber</i></small></font>
+![RGSoC goes GOTOber taken by us](img/blog/2016/20161128-GOTOber_1-iloveimg-compressed.gif)<font color="grey"><small><i>Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber</i></small></font>
 
 So GOTO Berlin meant two days of conference in Berlin on November 14th & 15th, and it is all about learning, networking and meeting developers. But it was not just another conference. Not only Team [LoadToCode](https://twitter.com/loadtocode) from Berlin was attending, but also [Team Twitches](https://twitter.com/Team_Twitches) from New Delhi/India and Team [Ruby's Secret](https://twitter.com/RubysSecretteam) from Cairo/Egypt \o/!
 
