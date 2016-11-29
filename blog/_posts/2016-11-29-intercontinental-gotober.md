@@ -25,7 +25,7 @@ Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrind
 
 Spending time with the extraordinary [Carina Zona](https://twitter.com/cczona) led to very inspiring conversations you can find out more about her [here](https://gotocon.com/berlin-2016/speaker/Carina+C.+Zona). Seeing her on stage for the final keynote on Tuesday was definitely one of the highlights. It was about engaging in a critical approach towards algorithms and the unintended effects they might have on users.
 
-![](/img/blog/2016/20161128-GOTOber_5.jpg)<font color="grey"><i>Nada shared her thoughts on the talk in a tweet</i></small></font>
+![Nada's sharing her thoughts](/img/blog/2016/20161128-GOTOber_5.jpg)<font color="grey"><small><i>Nada shared her thoughts on the talk in a tweet</i></small></font>
 
 [Sal Freudenberg](https://gotocon.com/berlin-2016/speaker/Sallyann+Freudenberg) has given a very personal talk about autism, raising awareness of neurodiversity within all the different people and colleagues, especially in tech environments & companies.
 
